@@ -13,3 +13,5 @@ Contributors
 
 - Rafa Ferri << rferritorro@gmail.com >>
 - Sergi Biosca << serbidaw@gmail.com >>
+
+SOy SERGI
