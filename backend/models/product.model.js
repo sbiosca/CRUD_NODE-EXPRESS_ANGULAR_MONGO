@@ -16,9 +16,6 @@ module.exports = mongoose => {
   );
 
   schema.pre('validate', (next) =>{
-    if(!this.slug) {
-      this.slugify();
-    }
     next();
   });
 
